@@ -2,6 +2,7 @@
 .typewriter h1 {
   color: #fff;
   font-family: monospace;
+  font-size: 2.5vw;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid black; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
@@ -58,6 +59,11 @@ h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.wide{letter-spacing:4px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
+.image_face {
+    max-width: 40%;
+    height: auto;
+    border-radius: 50%
+}
 
 /* Buttons */
 .btn,.button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
