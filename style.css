@@ -61,6 +61,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
 .image_face {
     max-width: 40%;
+    max-height: 300;
     height: auto;
     border-radius: 50%
 }
