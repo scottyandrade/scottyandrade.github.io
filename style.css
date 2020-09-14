@@ -65,6 +65,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
     height: auto;
     border-radius: 50%
 }
+was collected by capturing what is inside the square (shown above).
 
 /* Buttons */
 .btn,.button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
